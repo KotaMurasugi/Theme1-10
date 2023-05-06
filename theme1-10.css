@@ -12,8 +12,25 @@
 
 main{
   width:100%;
-  height:800px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.step-box{
+  width: 300px;
+  height: 600px;
   background-color: #EEEEEE;
+}
+.step-count{
+  display: inline-block;
+  color: #FFF;
+  background-color: #FF9A4B;
+}
+
+.step-img{
+  height: 150px;
+  width: 280px;
+  background-position: center;
 }
 
 .footer{
