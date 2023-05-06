@@ -14,17 +14,20 @@ main{
   width:100%;
   margin-top: 50px;
   margin-bottom: 50px;
+  position: relative;
 }
 
 .step-box{
   width: 300px;
-  height: 600px;
+  height: auto;
+  padding: 10px;
   background-color: #EEEEEE;
 }
 .step-count{
   display: inline-block;
   color: #FFF;
   background-color: #FF9A4B;
+  position: absolute;
 }
 
 .step-img{
